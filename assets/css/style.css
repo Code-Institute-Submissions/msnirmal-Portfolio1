@@ -57,6 +57,33 @@ letter-spacing: 4px;
    border-bottom: 1px solid #2f4f4f;
 }
 
+/* Hero Image*/
+
+#hero-outer{
+   height: 570px;
+   width:100%;
+   overflow: hidden;
+}
+
+#hero-image{
+   height: 600px;
+   width:100%;
+   background: url('../images/Hero5_image.jpg') no-repeat center center;
+   background-size: auto;
+   animation-name: hero-image-zoom;
+   animation-duration: 8s;
+   animation-fill-mode: forward;
+}
+
+@keyframes hero-image-zoom {
+   from {
+       transform: scale(1.3);
+   }
+   to {
+       transform: scale(1);
+   }
+}
+
 
 
 
