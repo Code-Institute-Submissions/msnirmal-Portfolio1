@@ -24,6 +24,7 @@ h1, h2{
 #logo{
    float: left;
    font-size: 280%;
+   margin-left: 30px;
 }
 
 /* Navigation Links*/
@@ -57,7 +58,7 @@ letter-spacing: 4px;
    border-bottom: 1px solid #2f4f4f;
 }
 
-/* Hero Image*/
+/* Hero Image and create animation*/
 
 #hero-outer{
    height: 570px;
@@ -83,6 +84,10 @@ letter-spacing: 4px;
        transform: scale(1);
    }
 }
+
+/*h2 heading and history*/
+
+
 
 
 
