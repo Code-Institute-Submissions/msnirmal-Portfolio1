@@ -85,23 +85,53 @@ letter-spacing: 4px;
    }
 }
 
-/* section 2 heading, history and popular recipes with images*/
+/* section 2 heading, history and popular recipes alignment*/
 
 #section2{
    height: 600px;
+   margin: 30px;
+}
+
+#heading2 {
+   text-align: center;
+   margin-bottom: 30px;
+   margin-top: 30px;
+   text-transform: initial;
 }
 
 #image-left{
    padding-top: 30px;
    width: 50%;
    float: left;
+    
 }
 
 #image-right{
    padding-top: 30px;
    width: 50%;
    float: right;
+    
 }
+/* Add recipe images and style*/
+
+.align{
+   text-align: center;
+}
+
+#recipe1-image{
+   width: 300px;
+   height: 300px;
+   border-radius: 50%;
+   margin-left: 100px;   
+}
+
+#recipe2-image{
+   width: 300px;
+   height: 300px;
+   border-radius: 50%;
+   margin-left: 100px;
+   }
+
 
 
 
