@@ -186,3 +186,38 @@ footer {
       transform: scale(1);
    }
 }
+/* recipe1 chicken tikka, ingredients and directions */
+
+.recipe1-tikka {
+   height: 300px;
+   margin: 30px;
+}
+
+.alignment{
+   text-align: center;
+   text-decoration: underline;  
+   text-transform: initial; 
+}
+
+.head-align{
+   text-align: center;
+   margin-bottom: 30px;
+}
+
+.ingredients-left{
+   padding-top: 30px;
+   width: 50%;
+   float: left;
+  
+}
+
+.list-align{
+   margin-left: 60px;
+}
+
+.directions-right{
+   padding-top: 30px;
+   width: 50%;
+   float: right;    
+}
+
