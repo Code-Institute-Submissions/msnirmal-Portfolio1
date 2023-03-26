@@ -205,9 +205,10 @@ footer {
 }
 
 .ingredients-left{
-   padding-top: 30px;
+   padding-top: 20px;
    width: 50%;
    float: left;
+   height: 50%;
   
 }
 
@@ -216,9 +217,10 @@ footer {
 }
 
 .directions-right{
-   padding-top: 30px;
+   padding-top: 20px;
    width: 50%;
-   float: right;    
+   float: right; 
+   height: 50%;   
 }
 
  
