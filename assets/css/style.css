@@ -85,7 +85,23 @@ letter-spacing: 4px;
    }
 }
 
-/*h2 heading and history*/
+/* section 2 heading, history and popular recipes with images*/
+
+#section2{
+   height: 600px;
+}
+
+#image-left{
+   padding-top: 30px;
+   width: 50%;
+   float: left;
+}
+
+#image-right{
+   padding-top: 30px;
+   width: 50%;
+   float: right;
+}
 
 
 
