@@ -19,13 +19,13 @@
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="feedback.html">Feedback</a>
+                    <a href="feedback.html" class="active">Feedback</a>
                 </li>
                 <li>
                     <a href="recipe.html">Recipe</a>
                 </li>
                 <li>
-                    <a href="index.html" class="active">Home</a>
+                    <a href="index.html">Home</a>
                 </li>
 
             </ul>
@@ -36,31 +36,24 @@
         <div id="hero-image"></div>
     </section>
 
-    <section id="section2">
-        <h2 class="heading2">Authentic Indian Recipes<i class="fa-solid fa-pepper-hot"></i></h2>
-        <p>Dishes belonging to various cuisines differ in taste, colour, texture and appearance. However, one aspect
-            that is common to all kinds of Indian cooking is use of spices and special herbs.
-            For flavours essence, nutmeg, saffron, cinnamon and cardamom are majorly used. Other spices that are used
-            extensively in Indian cooking are red chilli powder, black pepper, turmeric, ginger powder, asafoetida,
-            coriander, cumin seeds, black mustard seeds, etc.
-            The prominent history of Indian cuisines can be traced back from Vedic Hindus who resided in the country.
-            However, later with various invasions and races coming from different parts of the world such as Portugal,
-            Britain, Greeks, Mughals, Portuguese, Persians, etc. the country saw impressive influence of their
-            respective cuisine on Indian Cuisine which presented a mouth-watering and varied kinds of food habits.
-        </p>
-        <h2 class="heading2">Popular recipes</h2>
-        <div id="image-left">
-            <a href="index.html">
-                <img src="assets/images/Recipe2_image.jpg" alt="recipe image" id="recipe1-image">
-                <h3 class="align">Chicken Tikka</h3>
-            </a>
+    <section class="feedback-form">
+        <h2>We welcome your feedback</h2>
+        <form action="https://formdump.codeinstitute.net/" method="POST">
+        <div>
+         <label for="name">Name</label>
+         <input type="text" id="name">
         </div>
-        <div id="image-right">
-            <a href="index.html">
-                <img src="assets/images/dish2_img.jpg" alt="recipe image" id="recipe2-image">
-                <h3 class="align">Biryani</h3>
-            </a>
+        <div>
+         <label for="email">Email Address</label>
+         <input type="email" id="email">
         </div>
+        <div>
+         <label for="message">Message</label>
+         <textarea name="message" id="message" cols="30" rows="10"></textarea>
+        </div>
+         <input type="submit">
+
+        </form>
     </section>
 
     <footer>
