@@ -286,8 +286,45 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
+   #section2 {
+      height: 1200px;
+      margin: 30px; 
+      width: 80%    
+   }
+
+   .heading2{
+      text-align: center;
+       
+   }
+
+   #image-left {
+      padding-top: 20px;
+      width: 30%;
+      float: left;
+      margin-left: 20px;
+         
+   }
    
+   #image-right {
+      padding-top: 20px;
+      width: 30%;
+      float: right;
+       
+   }
+
+   #recipe1-image {
+      margin-left: 20px;
+   }
+
+   #recipe2-image {
+      margin-left: 30px;
+   }
+
+   .align {
+      text-align: center;
 
 }
    
- 
+/* For medium screens sizes from 950px wide and down */ 
+
+@media screen and (max-width: 950px)
