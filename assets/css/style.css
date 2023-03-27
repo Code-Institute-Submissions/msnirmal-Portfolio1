@@ -160,7 +160,6 @@ footer {
 }
 
 /* Hero Image for recipe page*/
-
 #hero2-outer {
    height: 570px;
    width: 100%;
@@ -186,6 +185,7 @@ footer {
       transform: scale(1);
    }
 }
+
 /* recipe chicken tikka and Biryani, ingredients and directions */
 
 .recipe1 {
@@ -279,3 +279,15 @@ footer {
       transform: scale(1);
    }
 }
+
+/* Media Queries*/ 
+
+/* For larger to medium screens size from 1200px wide and down */ 
+
+@media screen and (max-width: 1200px) {
+
+   
+
+}
+   
+ 
