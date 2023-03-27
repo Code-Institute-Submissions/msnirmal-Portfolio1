@@ -225,4 +225,27 @@ footer {
 
 /* Feedback form*/
 
+.feedback-form{
+   margin-top: 50px;
+   margin-left: 400px;
+   margin-right:400px;
+   
+}
+
+.feedback-form>h2{
+   margin-bottom: 30px;
+   text-transform: initial;
+}
  
+#name{
+   border: 1px solid;
+}
+
+#email {
+   border: 1px solid;
+}
+
+#message{
+   border: 1px solid;
+}
+
