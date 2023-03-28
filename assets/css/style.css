@@ -140,8 +140,8 @@ h2 {
 /* Footer*/
 
 footer {
-   height: 150px;
-   margin-top: 50px;
+   height: 100px;
+   margin-top: 400px;
 }
 
 .social-networks {
@@ -188,15 +188,25 @@ footer {
 
 /* recipe chicken tikka and Biryani, ingredients and directions */
 
-.recipe1 {
-   height: 400px;
+#recipe1 {
+   height: 300px;
    margin: 30px;
 }
+
+#recipe2 {
+   height: 300px;
+   margin: 30px;}
 
 #alignment{
    text-align: center;
    text-decoration: underline;  
+   text-transform: initial; }
+
+#alignment2{
+   text-align: center;
+   text-decoration: underline;  
    text-transform: initial; 
+       
 }
 
 .head-align{
@@ -208,7 +218,7 @@ footer {
    padding-top: 20px;
    width: 50%;
    float: left;
-   height: 50%;
+   height: 70%;
   
 }
 
@@ -220,7 +230,7 @@ footer {
    padding-top: 20px;
    width: 50%;
    float: right; 
-   height: 50%;   
+   height: 70%;   
 }
 
 /* Feedback form*/
@@ -324,6 +334,11 @@ footer {
       text-align: center;
 
 }
+
+ 
+
+
+}
    
 /* For medium screens sizes from 950px wide and down */ 
 
@@ -363,6 +378,13 @@ footer {
 #image-left h3, #image-right h3{   
    width: 100%;
    text-align: center;
+}
+
+#recipe1, #recipe2 {
+   width: 90%;
+   height: 800px;
+   margin: 0 auto;
+
 }
 
 }
