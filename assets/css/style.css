@@ -75,7 +75,7 @@ h2 {
    background-size: auto;
    animation-name: hero-image-zoom;
    animation-duration: 8s;
-   animation-fill-mode: forward;
+   
 }
 
 @keyframes hero-image-zoom {
@@ -173,7 +173,7 @@ footer {
    background-size: auto;
    animation-name: hero-image-zoom;
    animation-duration: 8s;
-   animation-fill-mode: forward;
+   
 }
 
 @keyframes hero-image-zoom {
@@ -285,7 +285,7 @@ footer {
    background-size: auto;
    animation-name: hero-image-zoom;
    animation-duration: 8s;
-   animation-fill-mode: forward;
+   
 }
 
 @keyframes hero-image-zoom {
