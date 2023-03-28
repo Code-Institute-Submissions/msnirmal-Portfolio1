@@ -335,5 +335,34 @@ footer {
    line-height: 25px;
   }
 
+  #section2 {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
+  #image-left {
+   width: inherit         
 }
 
+#image-right {
+   width: inherit  
+
+}
+
+#recipe1-image {
+   margin-left: 30px;
+   
+}
+
+#recipe2-image {
+   margin-left: 10px;
+ 
+}
+
+#image-left h3, #image-right h3{   
+   width: 100%;
+   text-align: center;
+}
+
+}
