@@ -236,10 +236,11 @@ footer {
 /* Feedback form*/
 
 .feedback-form{
-   margin-top: 50px;
-   margin-left: 400px;
-   margin-right:400px;
-   
+   height: 200px;
+   margin-top: 30px;
+   margin-left: 100px;
+   margin-right: 100px;
+    
 }
 
 .feedback-form>h2{
@@ -260,6 +261,13 @@ footer {
 #message{
    border: 1px solid;
    margin-bottom: 10px
+}
+
+#button{
+   background-color: grey
+   color: black;
+   padding: 10px 20px;
+   margin: 4px 2px;
 }
 
 /* Hero Image -Feedback Page*/
@@ -335,9 +343,6 @@ footer {
 
 }
 
- 
-
-
 }
    
 /* For medium screens sizes from 950px wide and down */ 
@@ -385,6 +390,12 @@ footer {
    height: 800px;
    margin: 0 auto;
 
+}
+
+#feedback-form {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
 }
 
 }
