@@ -60,7 +60,7 @@ h2 {
    border-bottom: 1px solid #2f4f4f;
 }
 
-/* Hero Image and create animation*/
+/* hero Image and create animation*/
 
 #hero-outer {
    height: 570px;
@@ -71,7 +71,7 @@ h2 {
 #hero-image {
    height: 600px;
    width: 100%;
-   background: url('../images/Hero5_image.jpg') no-repeat center center;
+   background: url('../images/heroimghomepage.jpg') no-repeat center center;
    background-size: auto;
    animation-name: hero-image-zoom;
    animation-duration: 8s;
@@ -169,7 +169,7 @@ footer {
 #hero2-image {
    height: 600px;
    width: 100%;
-   background: url('../images/recipepage_img.jpg') no-repeat center center;
+   background: url('../images/heroimgrecipepage.jpg') no-repeat center center;
    background-size: auto;
    animation-name: hero-image-zoom;
    animation-duration: 8s;
@@ -281,7 +281,7 @@ footer {
 #hero3-image {
    height: 600px;
    width: 100%;
-   background: url('../images/feedback1page.jpg') no-repeat center center;
+   background: url('../images/heroimgfeedbackpage.jpg') no-repeat center center;
    background-size: auto;
    animation-name: hero-image-zoom;
    animation-duration: 8s;
