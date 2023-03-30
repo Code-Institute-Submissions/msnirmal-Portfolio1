@@ -15,7 +15,7 @@ body {
 /* headings and logo*/
 
 h1,
-h2 {
+h2, h3 {
    font-family: Poppins, sans-serif;
    text-transform: uppercase;
    letter-spacing: 4px;
@@ -91,28 +91,30 @@ h2 {
 /* section two heading, history and alignment of the same */
 
 #section-two {
-   height: 300px;
-   margin: 30px;
-}
-
-.heading-two {
+   height: 200px;
+   margin-left: 70px;
+   margin-right: 70px;
+   margin-top: 20px;
+  }
+  
+#heading-two {
    text-align: center;
    margin-bottom: 20px;
-   margin-top: 20px;
    text-transform: initial;
 }
 
 /* section three for dish description*/
 
 #section-three {
-   height: 300px;
-   margin: 30px;
+   height: 250px;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-top: 20px;
 }
 
 #heading-three {
    text-align: center;
    margin-bottom: 20px;
-   margin-top: 20px;
    text-transform: initial;
 }
 
@@ -120,14 +122,21 @@ h2 {
    text-align: center;
    margin-bottom: 20px;
    margin-top: 20px;
+   text-transform: initial;}
+
+#heading-five {
+   text-align: center;
+   margin-bottom: 20px;
+   margin-top: 20px;
    text-transform: initial;
+
 }
 
 /* Footer*/
 
 footer {
    height: 100px;
-   margin-top: 400px;
+   margin-top: 100px;
 }
 
 .social-networks {
@@ -146,13 +155,13 @@ footer {
 }
 
 /* Hero Image for recipe page*/
-#hero2-outer {
+#hero-recipe-outer {
    height: 570px;
    width: 100%;
    overflow: hidden;
 }
 
-#hero2-image {
+#hero-recipe-image {
    height: 600px;
    width: 100%;
    background: url('../images/heroimgrecipepage.jpg') no-repeat center center;
@@ -174,58 +183,47 @@ footer {
 
 /* recipe chicken tikka and Biryani, ingredients and directions */
 
-#recipe1 {
-   height: 300px;
-   margin: 30px;
+#recipe-one {
+   height: 520px;
+   margin-top: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
 }
 
-#recipe2 {
-   height: 300px;
-   margin: 30px;}
-
-#alignment{
-   text-align: center;
-   text-decoration: underline;  
-   text-transform: initial; }
-
-#alignment2{
+#alignment-one{
    text-align: center;
    text-decoration: underline;  
    text-transform: initial; 
-       
+   margin-bottom: 20px;
+}
+   
+#recipe-two {
+   height: 770px;
+   margin-top: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
+}
+
+#alignment-two{
+   text-align: center;
+   text-decoration: underline;  
+   text-transform: initial; 
+   margin-bottom: 20px;       
 }
 
 .head-align{
    text-align: center;
-   margin-bottom: 30px;
-}
-
-.ingredients-left{
-   padding-top: 20px;
-   width: 50%;
-   float: left;
-   height: 70%;
-  
-}
-
-.list-align{
-   margin-left: 60px;
-}
-
-.directions-right{
-   padding-top: 20px;
-   width: 50%;
-   float: right; 
-   height: 70%;   
+   margin-bottom: 20px;
+   text-transform: initial;
 }
 
 /* Feedback form*/
 
-.feedback-form{
-   height: 200px;
+#feedback-form{
+   height: 400px;
    margin-top: 30px;
-   margin-left: 100px;
-   margin-right: 100px;
+   margin-left: 500px;
+   margin-right: 500px;
     
 }
 
@@ -258,13 +256,13 @@ footer {
 
 /* Hero Image -Feedback Page*/
 
-#hero3-outer {
+#hero-three-outer {
    height: 570px;
    width: 100%;
    overflow: hidden;
 }
 
-#hero3-image {
+#hero-three-image {
    height: 600px;
    width: 100%;
    background: url('../images/heroimgfeedbackpage.jpg') no-repeat center center;
@@ -290,50 +288,24 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
-   #section2 {
-      height: 1200px;
+   #section-two {
+      height: 600px;
       margin: 30px; 
       width: 80%    
    }
 
-   .heading2{
-      text-align: center;
-       
+   #section-three {
+      height: 600px;
+      margin: 30px; 
+      width: 80%    
    }
 
-   #image-left {
-      padding-top: 20px;
-      width: 30%;
-      float: left;
-      margin-left: 20px;
-         
    }
-   
-   #image-right {
-      padding-top: 20px;
-      width: 30%;
-      float: right;
-       
-   }
-
-   #recipe1-image {
-      margin-left: 20px;
-   }
-
-   #recipe2-image {
-      margin-left: 30px;
-   }
-
-   .align {
-      text-align: center;
-
-}
-
-}
    
 /* For medium screens sizes from 950px wide and down */ 
 
 @media screen and (max-width: 950px) {
+
   #menu {
    clear: left;
    float: left;
@@ -341,42 +313,18 @@ footer {
    line-height: 25px;
   }
 
-  #section2 {
+  #section-two {
     width: 90%;
-    height: 1200px;
+    height: 500px;
     margin: 0 auto;
   }
 
-  #image-left {
-   width: inherit         
-}
-
-#image-right {
-   width: inherit  
-
-}
-
-#recipe1-image {
-   margin-left: 30px;
-   
-}
-
-#recipe2-image {
-   margin-left: 10px;
- 
-}
-
-#image-left h3, #image-right h3{   
-   width: 100%;
-   text-align: center;
-}
-
-#recipe1, #recipe2 {
+  #section-three {
    width: 90%;
-   height: 800px;
+   height: 500px;
    margin: 0 auto;
-
-}
+ }
+  
 
 #feedback-form {
     width: 90%;
