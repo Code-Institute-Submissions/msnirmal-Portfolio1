@@ -177,6 +177,45 @@ The technologies i have used to create this website are as below-
 
    The User can reach  feedback page by clicking the 'Feedback' link in navigation bar at the top right hand side of the page. Once clicked the page has a form where they would need to input their name, email address, comment and submit (refer the page screenshot under features section of this document)
 
+   While testing i came across that the website text was merging on smaller screens despite media queries. I have changed the layout of the content 
+
+   ### **HTML and CSS Validation**
+
+   I have validated both HTML codes for all 3 pages and CSS. i came across an error as below on all three  HTML files (index, recipe and feedback) with respect to hero image animation 
+
+   *Forward is not a animation-fill-mode: forward; value*
+
+   I have reviewed the code and corrected this 
+
+   Screenshots below:
+
+   ![](docs/images/cssvalidation.JPG)
+   ![](docs/images/htmlvalidation-homepage.JPG)
+   ![](docs/images/htmlvalidation-recipepage.JPG)
+   ![](docs/images/htmlvalidation-feedbackpage.JPG)
+
+## Deployment
+
+I deployed this website by using GitPages and following the below steps:
+
+*GitHub pages deployment* 
+
+1. Log in to GitHub
+2. In your Repository section, select the project repository that you want to deploy
+3. In the menu located at the top of this section, click 'Settings'
+4. Select 'Git hub Pages' on the left-hand side menu
+5. In the source section, select branch 'main' and save
+6. The page then gives a URL, which in the case of this website is  https://msnirmal.github.io/Portfolio1/
+
+## Credits 
+
+I taken ideas from my peers and their design. Apart from that i have followed the love running walk through project 
+
+## Acknowledgements 
+
+A big thanks to my mentor Harry Dhillon for the support and sharing some best practises 
+   
+
 
 
 
