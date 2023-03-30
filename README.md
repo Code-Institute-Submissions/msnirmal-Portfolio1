@@ -109,6 +109,25 @@ Second section is a form to capture basic details - Name, Email and Message
 
 Lastly, the footer with social media links 
 
+## Technologies Used 
+
+The technologies i have used to create this website are as below-
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - Used as the basic building block for the project and to structure the content.
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - Used to style all the web content across the project. 
+- [Google Fonts](https://fonts.google.com/)
+    - Used to obtain the fonts linked in the header
+- [Font Awesome](https://fontawesome.com/)
+    - Used to obtain the social media icons used in the footer 
+- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+    - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
+- [GitHub](https://github.com/)
+    - Used to store code for the project after being pushed.
+- [Gitpod](https://www.gitpod.io/)
+    - Used as the development environment.
+
 
 
 

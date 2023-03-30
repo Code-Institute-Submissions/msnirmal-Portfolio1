@@ -11,7 +11,7 @@ body {
    font-weight: 300;
    color: #2f4f4f;
 }
-
+ 
 /* headings and logo*/
 
 h1,
@@ -88,53 +88,39 @@ h2 {
    }
 }
 
-/* section 2 heading, history and popular recipes alignment*/
+/* section two heading, history and alignment of the same */
 
-#section2 {
-   height: 600px;
+#section-two {
+   height: 300px;
    margin: 30px;
 }
 
-.heading2 {
+.heading-two {
    text-align: center;
    margin-bottom: 20px;
    margin-top: 20px;
    text-transform: initial;
 }
 
-#image-left {
-   padding-top: 30px;
-   width: 50%;
-   float: left;
+/* section three for dish description*/
 
+#section-three {
+   height: 300px;
+   margin: 30px;
 }
 
-#image-right {
-   padding-top: 30px;
-   width: 50%;
-   float: right;
-
-}
-
-/* Add recipe images and style*/
-
-#recipe1-image {
-   width: 350px;
-   height: 350px;
-   border-radius: 50%;
-   margin-left: 140px;
-
-}
-
-#recipe2-image {
-   width: 350px;
-   height: 350px;
-   border-radius: 50%;
-   margin-left: 140px;
-}
-
-.align {
+#heading-three {
    text-align: center;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   text-transform: initial;
+}
+
+#heading-four {
+   text-align: center;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   text-transform: initial;
 }
 
 /* Footer*/
