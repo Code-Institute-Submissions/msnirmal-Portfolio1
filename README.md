@@ -153,6 +153,30 @@ The technologies i have used to create this website are as below-
 - [Gitpod](https://www.gitpod.io/)
     - Used as the development environment.
 
+## Testing 
+
+### *User Stories*
+
+1. **As a first-time visitor, I want a site that is simple and easy to use**
+
+   The page is made simple keeping in mind users of all age group. As soon as a user launches the page, they can see a brief introduction to Indian food in the body and the navigation bar at the top to access various sections (refer the page screenshot under features section of this document)
+
+2. **As a first-time visitor, I want to easily navigate through the various sections**
+
+   The User can easily view the navigation bar right at the top right hand side of the page, which when clicked would take them to respective sections (refer the page screenshot under features section of this document)
+
+3. **As a first-time visitor, I want to know the history of indian food**
+
+   The User can see this on the 'Home' page soon after launching the website on their computer systems (refer the page screenshot under features section of this document)
+
+4. **As a first-time/ recurring visitor, I want to find clear and concise steps to ingredients and directions to prepare**
+
+    The User when clicks on the recipe page would arrive at sections that has the name of dish followed by ingredients and directions to prepare (refer the page screenshot under features section of this document)
+
+5. **As a first time/ recurring visitor, i want to try the recipes and share feedback**
+
+   The User can reach  feedback page by clicking the 'Feedback' link in navigation bar at the top right hand side of the page. Once clicked the page has a form where they would need to input their name, email address, comment and submit (refer the page screenshot under features section of this document)
+
 
 
 
