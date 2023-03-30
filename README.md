@@ -2,7 +2,7 @@
 
 [Visit the website here](https://msnirmal.github.io/Portfolio1/recipe.html) 
 
-![](docs/images/responsive.JPG)
+![](docs/images/responsive.png)
 
 This website is created for food lovers, who are interested in Indian cuisine and targets people of all age group   
 
@@ -80,7 +80,7 @@ The logo is set as a link that brings back the user to 'Home' page directly from
 
 The navigation links are at the top right side of the page, namely, Home, Recipe and Feedback and they are designed to be able to view on various screen sizes. The logo is also a link which when clicked, brings the user directly to the home 
 
-![](docs/images/logo-nav.JPG)
+![](docs/images/logo-nav.png)
 
 ### *Home*
 
@@ -88,15 +88,15 @@ The Home page body is divided in to 3 sections.
 
 First section, is an animated hero image
 
-![](docs/images/heroimage-homepage.JPG)
+![](docs/images/heroimage-homepage.png)
 
 Second section, has a heading 'Authentic Indian Recipe' followed by a paragraph that describes the history of Indian food 
 
-![](docs/images/heading-history-homepage.JPG)
+![](docs/images/heading-history-homepage.png)
 
 Third section, has details of two popular recipes 
 
-![](docs/images/dishessection-homepage.JPG)
+![](docs/images/dishessection-homepage.png)
 
 ### *Recipe*
 
@@ -104,16 +104,16 @@ The Recipe page mirrors the Navigation bar from Home page and is divided in to 3
 
 First section, has a different hero image to the Home page  
 
-![](docs/images/heroimage-recipepage.JPG)
+![](docs/images/heroimage-recipepage.png)
 
 Second section has a heading of the first recipe- 'Chicken Tikka' followed by ingredients and directions one below the other 
 
-![](docs/images/chickentikka-recipepage.JPG)
+![](docs/images/chickentikka-recipepage.png)
 
 Third section has a heading of the second recipe- 'Biryani' followed by ingredients and directions one below the other
 
-![](docs/images/biryanione-recipepage.JPG)
-![](docs/images/biryanitwo-recipepage.JPG)
+![](docs/images/biryanione-recipepage.png)
+![](docs/images/biryanitwo-recipepage.png)
 
 ### *Feedback*
 
@@ -123,17 +123,17 @@ The feedback page mirrors the navigation bar of Home page and has 2 sections
 
 First section, is a hero image that is animated (different to the home and recipe images) 
 
-![](docs/images/heroimage-feedbackpage.JPG)
+![](docs/images/heroimage-feedbackpage.png)
 
 Second section is a form to capture basic details - Name, Email and Message
 
- ![](docs/images/feedbackform-feedbackpage.JPG)
+ ![](docs/images/feedbackform.png)
 
  ### *Footer*
 
  The footer includes icons of social media which when clicked would launch the respective social media sites like facebook, twitter, instagram and youtube
 
- ![](docs/images/footer-allpages.JPG)
+ ![](docs/images/footer-allpages.png)
 
 ## Technologies Used 
 
@@ -190,10 +190,10 @@ The technologies i have used to create this website are as below-
 
    Screenshots below:
 
-   ![](docs/images/cssvalidation.JPG)
-   ![](docs/images/htmlvalidation-homepage.JPG)
-   ![](docs/images/htmlvalidation-recipepage.JPG)
-   ![](docs/images/htmlvalidation-feedbackpage.JPG)
+   ![](docs/images/cssvalidation.png)
+   ![](docs/images/htmlvalidation-homepage.png)
+   ![](docs/images/htmlvalidation-recipepage.png)
+   ![](docs/images/htmlvalidation-feedbackpage.png)
 
 ## Deployment
 
