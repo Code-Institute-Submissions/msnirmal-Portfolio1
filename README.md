@@ -2,6 +2,8 @@
 
 [Visit the website here](https://msnirmal.github.io/Portfolio1/recipe.html) 
 
+![](docs/images/responsive.JPG)
+
 This website is created for food lovers, who are interested in Indian cuisine and targets people of all age group   
 
 This website is made up of the following sections:
@@ -69,9 +71,15 @@ Used google fonts 'Poppins' and 'Vollkorn' for headings and body text respective
 
 This website is designed with an intent to share my family recipes with rest of the world, it is responsive and has eye catching images of food that would enagage the users to explore more. The website uses font Poppins for heading and Vollkorn for body text through out.  The website is simple and easy to use and meant for the purpose with no overwhelming information. 
 
+### *Logo*
+
+The logo is set as a link that brings back the user to 'Home' page directly from the other pages that they may be on  
+
 ### *Navigation*
 
 The navigation links are at the top right side of the page, namely, Home, Recipe and Feedback and they are designed to be able to view on various screen sizes. The logo is also a link which when clicked, brings the user directly to the home 
+
+![](docs/images/logo-nav.JPG)
 
 ### *Home*
 
@@ -79,23 +87,32 @@ The Home page body is divided in to 3 sections.
 
 First section, is an animated hero image
 
+![](docs/images/heroimage-homepage.JPG)
+
 Second section, has a heading 'Authentic Indian Recipe' followed by a paragraph that describes the history of Indian food 
 
-Third section, has two eye catching images of popular recipes 
+![](docs/images/heading-history-homepage.JPG)
 
-Lastly, footer with social media links
+Third section, has details of two popular recipes 
+
+![](docs/images/dishessection-homepage.JPG)
 
 ### *Recipe*
 
 The Recipe page mirrors the Navigation bar from Home page and is divided in to 3 sections 
 
-First section, has a different hero image to the Home page 
+First section, has a different hero image to the Home page  
 
-Second section has a heading of the first recipe- 'Chicken Tikka' followed by divisions that are aligned left and right with ingredients and directions respectively 
+![](docs/images/heroimage-recipepage.JPG)
 
-Third section has a heading of the second recipe- 'Biryani' followed by divisions that are aligned left and right with ingredients and directions respectively
+Second section has a heading of the first recipe- 'Chicken Tikka' followed by ingredients and directions one below the other 
 
-Lastly, footer with social media links
+![](docs/images/chickentikka-recipepage.JPG)
+
+Third section has a heading of the second recipe- 'Biryani' followed by ingredients and directions one below the other
+
+![](docs/images/biryanione-recipepage.JPG)
+![](docs/images/biryanitwo-recipepage.JPG)
 
 ### *Feedback*
 
@@ -105,9 +122,17 @@ The feedback page mirrors the navigation bar of Home page and has 2 sections
 
 First section, is a hero image that is animated (different to the home and recipe images) 
 
+![](docs/images/heroimage-feedbackpage.JPG)
+
 Second section is a form to capture basic details - Name, Email and Message
 
-Lastly, the footer with social media links 
+ ![](docs/images/feedbackform-feedbackpage.JPG)
+
+ ### *Footer*
+
+ The footer includes icons of social media which when clicked would launch the respective social media sites like facebook, twitter, instagram and youtube
+
+ ![](docs/images/footer-allpages.JPG)
 
 ## Technologies Used 
 
