@@ -46,6 +46,7 @@ User requirements:
 * To be able to view on all devices 
 
 ### **Scope**
+
 * Header with logo and navigation links to access various sections of the page 
 * Brief history/ description section 
 * Images of popular recipes 
@@ -57,11 +58,11 @@ User requirements:
 
 This is a three page website that includes Home, Recipe and Feedback sections. The home page has navigation links at top right side and goes in the order Home > Recipe > feedback. The home page has a brief history on Indian food with images/ names of popular recipes and social media links as footer. Users can then find the ingredients and directions on Recipe page followed by a feedback section to share their comments 
 
-### Skeletal 
+### **Skeletal**
 
 While creating a draft for this website and during the building process, i used different background colors, however, i felt the images that i have used will contrast well with a white background. Also, i have used divisions for ingredients and directions and bulleted them, so the user doesnt have to scroll a long page of contents and have a good experience 
 
-### Surface 
+### **Surface**
 
 The overall background of this website is white, keeping in mind the colors of the images and fonts i have used, which are mostly shades of grey (partly black), that contrasts with the white background 
 
@@ -209,7 +210,7 @@ I deployed this website by using GitPages and following the below steps:
 
 ## Credits 
 
-I taken ideas from my peers and their design. Apart from that i have followed the love running walk through project 
+I have taken ideas from my peers and their design during the intial phase of planning the structure. Apart from that i have followed the love running walk through project 
 
 ## Acknowledgements 
 
