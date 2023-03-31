@@ -290,9 +290,14 @@ footer {
 
 #section-two {
    height: 330px;
+   margin-left: 20px;
+   margin-right: 20px;
 
 }   
-
+#section-three {
+   margin-left: 20px;
+   margin-right: 20px;
+}
    }
    
 /* For medium screens sizes from 950px wide and down */ 
@@ -309,10 +314,14 @@ footer {
 #section-two {
    margin-top: 20px;
    height: 600px;
+   margin-left: 20px;
+   margin-right: 20px;
 }
 
 #section-three{       
    height: 600px;
+   margin-left: 20px;
+   margin-right: 20px;
 }
  
   
