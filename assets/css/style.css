@@ -335,3 +335,25 @@ footer {
 
 }
 
+/* For small screens sizes from 570px wide and down */ 
+
+@media screen and (max-width: 570px) {
+
+   #section-two {
+      height: 400px;
+   }
+
+   #section-three {
+      height: 400px;
+   }
+
+}
+
+/* For small screens sizes from 470px wide and down */ 
+
+@media screen and (max-width: 470px) {
+   #section-two{height: 550px;
+   }
+   #section-three{height: 550px;
+   }
+}
