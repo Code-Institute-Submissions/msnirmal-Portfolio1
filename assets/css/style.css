@@ -335,7 +335,7 @@ footer {
          
       }
 
-   /* For smaller screens sizes from 662px wide and down */
+   /* For smaller screens sizes from 662px wide and down 
 
    #section-two {
         height: 400px;
@@ -343,9 +343,9 @@ footer {
 
    #section-three {       
       height: 400px;  
-      } 
+      } */
 
-   /* For smaller screens sizes from 465px wide and down */
+   /* For smaller screens sizes from 465px wide and down
 
    #section-two {
       height: 600px;
@@ -353,15 +353,15 @@ footer {
 
  #section-three {       
     height: 600px;  
-    } 
+    }  */
 
-    /* For smaller screens sizes from 335px wide and down */
+    /* For smaller screens sizes from 335px wide and down 
 
     #section-two {
       height: 800px;
  }
 
  #section-three {       
-    height: 800px; 
+    height: 800px; */
 
 }
