@@ -424,6 +424,41 @@ footer{
 }
 }
 
+/* Media queries for feedback form*/
+
+/* For larger screens size from 1135px wide and down */
+
+@media screen and (max-width: 1135px) {
+
+   #feedback-form {
+   margin-left: 400px;
+   
+}
+}
+
+/* For medium screens size from 940px wide and down */
+
+@media screen and (max-width: 940px) {
+      #feedback-form {
+      margin-left: 300px;      
+   }
+   }
+
+/* For smaller screens size from 790px wide and down */
+
+@media screen and (max-width: 790px) {
+   #feedback-form {
+   margin-left: 200px; }
+} 
+
+/* For smaller screens size from 790px wide and down */
+
+@media screen and (max-width: 790px) {
+   #feedback-form {
+   margin-left: 100px; }
+}
+
+
 
 
 
