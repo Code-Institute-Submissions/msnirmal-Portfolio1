@@ -7,7 +7,7 @@
 }
 
 body {
-   font-family: vollkorn, sans-serif;
+   font-family: vollkorn, serif;
    font-weight: 300;
    color: #2f4f4f;
 }
@@ -91,9 +91,9 @@ h2, h3 {
 /* section two heading, history and alignment of the same */
 
 #section-two {
-   height: 200px;
-   margin-left: 70px;
-   margin-right: 70px;
+   height: 250px;
+   margin-left: 200px;
+   margin-right: 200px;
    margin-top: 20px;
   }
   
@@ -107,9 +107,9 @@ h2, h3 {
 
 #section-three {
    height: 250px;
-   margin-left: 100px;
-   margin-right: 100px;
-   margin-top: 20px;
+   margin-left: 200px;
+   margin-right: 200px;
+   
 }
 
 #heading-three {
@@ -288,7 +288,10 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
-   
+#section-two {
+   height: 330px;
+
+}   
 
    }
    
@@ -303,16 +306,30 @@ footer {
    line-height: 25px;
   }
 
-  #section-two {
-    width: 90%;
-    height: 1000px;
-    margin: 0 auto;
-  }
+#section-two {
+   margin-top: 20px;
+   height: 600px;
+}
 
-  #section-three {
-   width: 90%;
-   height: 1000px;
-   margin: 0 auto;
- }
+#section-three{       
+   height: 600px;
+}
+ 
   
+}
+
+/* For smaller screens sizes from 700px wide and down */
+
+@media screen and (max-width: 700px) {
+
+   #section-two {
+      margin-top: 20px;
+      height: 1200px;}
+
+   #section-three {       
+         height: 1200px;
+      }
+
+
+
 }
