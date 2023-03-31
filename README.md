@@ -69,6 +69,7 @@ The overall background of this website is white, keeping in mind the colors of t
 Used google fonts 'Poppins' and 'Vollkorn' for headings and body text respectively, considering the clarity and synchronization between them
 
 ## **Features**
+---
 
 This website is designed with an intent to share my family recipes with rest of the world, it is responsive and has eye catching images of food that would enagage the users to explore more. The website uses font Poppins for heading and Vollkorn for body text through out.  The website is simple and easy to use and meant for the purpose with no overwhelming information. 
 
@@ -136,6 +137,7 @@ Second section is a form to capture basic details - Name, Email and Message
  ![](docs/images/footer-allpages.png)
 
 ## Technologies Used 
+---
 
 The technologies i have used to create this website are as below-
 
@@ -155,6 +157,7 @@ The technologies i have used to create this website are as below-
     - Used as the development environment.
 
 ## Testing 
+---
 
 ### *User Stories*
 
@@ -180,7 +183,12 @@ The technologies i have used to create this website are as below-
 
    While testing i came across that the website text was merging on smaller screens despite media queries. I have changed the layout of the content 
 
+### *Bug fixes*
+
+* During the building phase of this website i noticed responsive issues, which i have worked through to fix 
+
    ### **HTML and CSS Validation**
+   ---
 
    I have validated both HTML codes for all 3 pages and CSS. i came across an error as below on all three  HTML files (index, recipe and feedback) with respect to hero image animation 
 
@@ -196,6 +204,7 @@ The technologies i have used to create this website are as below-
    ![](docs/images/htmlvalidation-feedbackpage.png)
 
 ## Deployment
+---
 
 I deployed this website by using GitPages and following the below steps:
 
@@ -209,10 +218,12 @@ I deployed this website by using GitPages and following the below steps:
 6. The page then gives a URL, which in the case of this website is  https://msnirmal.github.io/Portfolio1/
 
 ## Credits 
+---
 
 I have taken ideas from my peers and their design during the intial phase of planning the structure. Apart from that i have followed the love running walk through project 
 
 ## Acknowledgements 
+---
 
 A big thanks to my mentor Harry Dhillon for the support and sharing some best practises 
    
