@@ -289,7 +289,7 @@ footer {
 @media screen and (max-width: 1200px) {
 
 #section-two {
-   height: 330px;
+   height: 220px;
    margin-left: 20px;
    margin-right: 20px;
 
@@ -312,19 +312,13 @@ footer {
   }
 
 #section-two {
-   margin-top: 20px;
-   height: 600px;
-   margin-left: 20px;
-   margin-right: 20px;
+   height: 300px;    
 }
 
 #section-three{       
-   height: 600px;
-   margin-left: 20px;
-   margin-right: 20px;
+   height: 300px;
 }
- 
-  
+   
 }
 
 /* For smaller screens sizes from 700px wide and down */
@@ -332,13 +326,42 @@ footer {
 @media screen and (max-width: 700px) {
 
    #section-two {
-      margin-top: 20px;
-      height: 1200px;}
+      height: 300px;
+      
+   }
 
-   #section-three {       
-         height: 1200px;
+   #section-three { 
+         height: 300px;      
+         
       }
 
+   /* For smaller screens sizes from 662px wide and down */
 
+   #section-two {
+        height: 400px;
+   }
+
+   #section-three {       
+      height: 400px;  
+      } 
+
+   /* For smaller screens sizes from 465px wide and down */
+
+   #section-two {
+      height: 600px;
+ }
+
+ #section-three {       
+    height: 600px;  
+    } 
+
+    /* For smaller screens sizes from 335px wide and down */
+
+    #section-two {
+      height: 800px;
+ }
+
+ #section-three {       
+    height: 800px; 
 
 }
