@@ -406,7 +406,7 @@ footer{
 
 footer {
    height: 100px;
-   margin-top: 300px;
+   margin-top: 250px;
 }
 
 }
@@ -458,7 +458,12 @@ footer {
    margin-left: 100px; }
 }
 
+/* For smaller screens size from 410px wide and down */
 
+@media screen and (max-width: 410px) {
+   #feedback-form {
+   margin-left: 50px; }
+}
 
 
 
