@@ -282,7 +282,7 @@ footer {
    }
 }
 
-/* Media Queries*/ 
+/* Media Queries for Home page*/ 
 
 /* For larger to medium screens size from 1200px wide and down */ 
 
@@ -357,3 +357,73 @@ footer {
    #section-three{height: 550px;
    }
 }
+
+/* Media Queries for recipe page*/
+
+/* For larger to medium screens size from 1048px wide and down */ 
+
+@media screen and (max-width: 1048px) {
+
+#recipe-one {
+   margin-left: 40px;
+   margin-right: 40px;
+}
+
+#recipe-two {
+   margin-left: 40px;
+   margin-right: 40px;
+}
+
+}
+
+/* For medium screens size from 935px wide and down */
+
+@media screen and (max-width: 935px) {
+
+#recipe-one {
+   height: 600px;
+   
+}
+
+#recipe-two {
+   height: 800px
+}
+
+footer{
+   height: 100px;
+    
+}
+
+}
+
+/* For medium to smaller screens size from 685px wide and down */
+
+@media screen and (max-width: 685px) {
+
+#recipe-one {
+   height: 700px;
+}
+
+footer{
+   height: 200px;
+   margin-top: 400px;
+}
+
+}
+
+/* For smaller screens size from 460 px wide and down */
+
+@media screen and (max-width: 460px) {
+
+   #recipe-one {
+       height: 800px;
+   }
+
+   footer{
+      margin-top: 800px;    
+}
+}
+
+
+
+
