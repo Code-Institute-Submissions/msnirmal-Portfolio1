@@ -333,7 +333,7 @@ footer {
       height: 350px;
    }
 
-}
+   }
 
 /* For small screens sizes from 570px wide and down */ 
 
@@ -404,9 +404,9 @@ footer{
    height: 700px;
 }
 
-footer{
-   height: 200px;
-   margin-top: 400px;
+footer {
+   height: 100px;
+   margin-top: 300px;
 }
 
 }
@@ -420,7 +420,7 @@ footer{
    }
 
    footer{
-      margin-top: 800px;    
+      margin-top: 700px;    
 }
 }
 
